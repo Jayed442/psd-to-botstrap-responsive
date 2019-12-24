@@ -1,0 +1,228 @@
+body{
+  background: #28282e;
+}
+/* Header Part Start */
+header {
+  width: 100%;
+  float: left;
+  background: url(../img/banner.png);
+  padding: 20px 0px;
+	}
+.container{
+
+}
+.logo{
+    
+}
+.logo h2{
+    color: yellow;
+    float: left;
+    margin: 0px 30px;
+
+}
+.menu{
+    
+}
+nav{
+
+}
+nav ul{
+margin: 5px 0px;
+float: right;
+color: #fff;
+}
+nav ul li{
+    display: inline;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 0px 20px;
+    color: #fff;
+}
+
+.header-main{
+     margin: 50px 0px;
+}
+.description h1{
+    background: #64616163;
+    text-align: center;
+    color: #fff;
+    margin: 40px 0px;
+}
+
+.description p{
+    text-align: center;
+    font-size: 13px;
+    margin: 25px 0px;
+    color: #fff;
+}
+
+.btn.btn-primary{
+    background: #00000024;
+    padding: 5px 25px;
+    margin-bottom: 100px;
+}
+
+/* Header Part End */
+
+/* Section Part Start */
+section {
+   background: #f5f5f5;
+   padding-bottom: 150px;
+}
+.text{
+
+}
+.text h2 {
+    margin-top: 150px;
+    font-size: 30px;
+    padding-top: 55px;
+}
+.text p{
+    line-height: 18px;
+    font-size: 15px;
+    padding-top: 15px;
+}
+.image img {
+    width: 100%;
+    padding-top: 150px;
+}
+
+
+.new{
+
+}
+.new h2 {
+    margin-top: 30px;
+    font-size: 30px;
+    padding-top: 55px;
+    color: #fff;
+}
+.new p{
+    line-height: 18px;
+    font-size: 10px;
+    padding-top: 20px;
+    color: #fff;
+}
+.car img {
+    width: 100%;
+    padding-top: 150px;
+}
+
+.btn.btn-denger{
+    background: #3a39391a;
+    padding: 5px 25px;
+    margin-bottom: 100px;
+    color: #fff;
+    border: 1px solid;
+    margin-left: 15px;
+}
+
+/* Section Part End */
+
+/* Footer Part Start */
+
+footer {
+  background: #ef4035;
+  padding: 15px 0px;
+}
+
+.copyrite h5 {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 10px;
+    color: #fff;
+}
+
+/* Footer Part End */
+
+
+
+
+                                                            @media (max-width: 575.98px) {
+
+                                                            nav ul{
+                                                            margin: -20px 0px;
+                                                            float: right;
+                                                            }
+                                                            nav ul li{
+                                                                display: inline;
+                                                                text-decoration: none;
+                                                                font-size: 10px;
+                                                                padding: 0px 15px;}
+
+                                                              .logo h2{
+                                                                color: #03a9f4;
+                                                                float: left;
+                                                                font-size: 15px;}  
+
+                                                                .btn.btn-denger{
+                                                                background: #3a39391a;
+                                                                padding: 5px 25px;
+                                                                margin-bottom: 100px;
+                                                                color: #fff;
+                                                                border: 1px solid;
+                                                                margin-left: 170px;
+                                                                margin-top: 100px;}
+
+
+                                                            }
+
+
+                                                            @media (min-width: 576px) and (max-width: 767.98px) {
+
+                                                              nav ul{
+                                                            margin: -20px 0px;
+                                                            float: right;
+                                                            }
+                                                            nav ul li{
+                                                                display: inline;
+                                                                text-decoration: none;
+                                                                font-size: 10px;
+                                                                padding: 0px 15px;}
+
+                                                              .logo h2{
+                                                                color: #03a9f4;
+                                                                float: left;
+                                                                font-size: 15px;}
+
+                                                               .image img {
+                                                                width: 100%;
+                                                                padding-top: 150px;}
+                                                                
+                                                                
+                                                            }
+
+
+                                                            @media (min-width: 768px) and (max-width: 1199.98px) {
+                                                             nav ul{
+                                                            margin: 0px 0px;
+                                                            float: right;
+                                                            }
+                                                            nav ul li{
+                                                                display: inline;
+                                                                text-decoration: none;
+                                                                font-size: 10px;
+                                                                padding: 0px 15px;}
+
+                                                              .logo h2{
+                                                                color: #03a9f4;
+                                                                float: left;
+                                                                font-size: 15px;
+
+                                                            }
+                                                            .description h1{
+                                                                background: #64616163;
+                                                                text-align: center;
+                                                                color: #fff;
+                                                                margin: 40px 0px;
+                                                                font-size: 25px;}
+
+                                                                .image img {
+                                                                width: 100%;
+                                                                padding-top: 230px;}
+
+
+                                                            }
+                                                            @media (min-width: 1200px) {
+
+                                                            }
